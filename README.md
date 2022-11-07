@@ -1,1 +1,1 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1039012571451228160)?theme=light&bg=809ecf&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=strapping%20and%20popping%20ops...)](https://discord.com/users/1039012571451228160))
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1039012571451228160?1039012571451228160theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=popping%20up%20ops%20yo...)](https://discord.com/users/1039012571451228160)
