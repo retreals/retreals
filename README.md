@@ -1,1 +1,1 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1039012571451228160)](https://discord.com/users/1039012571451228160)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=retreals&show_icons=true&theme=radical)
